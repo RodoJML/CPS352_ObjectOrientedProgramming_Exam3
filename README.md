@@ -1,4 +1,4 @@
-# CPS352 Test 3
+# CPS352 Object Oriented Programming - Test 3
 
 Developed at State University of New York on 2023, for Exam 3 of course CPS352 Object Oriented Programming.
 
