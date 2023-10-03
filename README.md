@@ -2,6 +2,8 @@
 
 Developed at State University of New York on 2023 for 3rd Exam of course CPS352 Object Oriented Programming.
 
+Please find code under "src" folder of this repository.
+
 ### Exam instructions:
 [OOPTest 3_S23.pdf](https://github.com/RodoJML/CPS352_ObjectOrientedProgramming_Exam3/files/12796284/OOPTest.3_S23.pdf)
 
